@@ -223,33 +223,3 @@ The first version also uses create_all during startup, public role
 selection during registration, and a basic JWT scheme. These choices
 are documented trade-offs, not claims of complete production security.
 
-## 11. Performance report
-
-Fill in this section after running the experiments:
-
-- Test date:
-- Machine/hosting plan:
-- PostgreSQL configuration:
-- Baseline pool settings:
-- Optimized pool settings:
-- Baseline maximum users meeting the SLO:
-- Optimized maximum users meeting the SLO:
-- Baseline throughput:
-- Optimized throughput:
-- Baseline p95 latency:
-- Optimized p95 latency:
-- Infrastructure error rates:
-- Inventory oversell count:
-- Main bottleneck observed:
-- Optimization applied:
-- Remaining bottleneck:
-
-## 12. Demo video
-
-Record a 2–5 minute video with your face visible, speaking English.
-Demonstrate the deployed API, role restrictions, successful booking,
-real email notifications, the baseline performance breaking point,
-the optimization, and the final measured result.
-
-Submit the public video link and project details using the assignment
-submission form provided in the project brief.
